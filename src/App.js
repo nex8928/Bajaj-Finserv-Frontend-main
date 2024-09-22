@@ -77,7 +77,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>AP21110011398 - Rajesh Kovvuru</h1> 
+      <h1>RA2111033010078 - Nipun Gahane</h1> 
 
       <div className="input-container">
         <label htmlFor="jsonInput">API Input</label>
